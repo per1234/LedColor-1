@@ -6,14 +6,14 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-LedColor  KEYWORD1
+LedColor	KEYWORD1
 LedColors	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setColor    KEYWORD2
+setColor	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
